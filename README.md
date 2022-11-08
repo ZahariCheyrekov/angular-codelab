@@ -5,3 +5,4 @@ This codelab is designed to build a wildlife photo gallery app with Angular v14.
 # Guide
 
 The step-by-step guide can be found at: https://github.com/angular/standalone-components-photo-gallery-app
+GitHub repo: https://github.com/angular/codelabs/tree/standalone-components
